@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.image-cont > img{
+    width: 250px;
+    border-radius: 10px;
+    height: 90%;
+}
+.dest-name{
+    font-size: 2em;
+    font-weight: bold;
+}
+.location > img{
+    width:15px;
+    height: 15px;
+}
+.googleMap{
+    font-size: 12px;
+    opacity: 0.5;
+}
+.stay-duration_cont{
+    font-size: 12px;
+}
